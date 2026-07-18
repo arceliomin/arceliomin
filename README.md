@@ -87,7 +87,7 @@ Modern responsive landing page designed for Toyota sales consultants.
 
 🔗 Live Demo
 
-https://arceliomin.github.io/arc-finance/
+https://arceliomin.github.io/toyota-sales-landing/
 
 ---
 
